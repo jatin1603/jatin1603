@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://jatin1603.github.io/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jatin1603.github.io/jatin/#services)**
 
 - 📫 How to reach me **jatinrastogi81@gmail.com**
 
